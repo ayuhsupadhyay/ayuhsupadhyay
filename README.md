@@ -16,3 +16,6 @@ Hi, I'm Ayush Upadhyay 👋
 @@ 3rd Year CSE Undergraduate @ IIIT Bhagalpur @@
 + Passionate about Competitive Coding and Web Development
 ! Always eager to learn and contribute
+```
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=ayuhsupadhyay&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
