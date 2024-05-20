@@ -3,12 +3,6 @@
 <hr>
 
 <div align="center">
-  <a href="https://github.com/ayuhsupadhyay">
-    <img src="https://github.com/ayuhsupadhyay/ayuhsupadhyay/assets/banner.png" width="100%" alt="banner">
-  </a>
-</div>
-
-<div align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/ayush-upadhyay-a97588225/"><img src="https://img.shields.io/badge/LinkedIn-ayush--upadhyay-blue?style=for-the-badge&logo=linkedin"></a>
     <a href="mailto:ayush.2101009cs@iiitbh.ac.in"><img src="https://img.shields.io/badge/Email-ayush.2101009cs@iiitbh.ac.in-red?style=for-the-badge&logo=gmail"></a>
