@@ -1,12 +1,31 @@
-# 💫 About Me:
-👷 I'm currently working on<br>Course-DROP (MERN stack project)<br>🤼 I'm looking to collaborate on<br>Web dev projects (React, Node.js, Express.js, MongoDB)<br>💡 I'm looking for help with<br>Competitive programming, DSA<br>👾 I'm currently learning<br>New MERN skills, DSA<br>💭 Ask me about<br>OOPs, DBMS, Computer Networks, OS, DSA, Competitive Coding, Web Dev (MERN)<br>⚡ Fun fact<br><br>Led college volleyball initiatives<br>Awarded 'Most Fit Person' in 2023
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+I'm+Ayush+Upadhyay;A+Passionate+Coder+and+Developer!&width=700&height=50&color=00c4ff&center=true" width="1000" style="margin-top:-5rem" alt="" align="center">
 
+<hr>
+
+<div align="center">
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ayush-upadhyay-a97588225/"><img src="https://img.shields.io/badge/LinkedIn-ayush--upadhyay-0077b5?style=for-the-badge&logo=linkedin"></a>
+    <a href="mailto:ayush.2101009cs@iiitbh.ac.in"><img src="https://img.shields.io/badge/Email-ayush.2101009cs@iiitbh.ac.in-d14836?style=for-the-badge&logo=gmail"></a>
+  </p>
+</div>
+
+# 💫 About Me:
+Hi, I'm Ayush Upadhyay, a dedicated and enthusiastic 3rd Year CSE Undergraduate at IIIT Bhagalpur. With a strong foundation in computer science and a passion for coding, I thrive on solving complex problems and building innovative web applications. Here's a bit more about me:
+
+- 👷 Currently working on **Course-DROP**, a comprehensive MERN stack project.
+- 🤼 Looking to collaborate on exciting web development projects, especially those involving **React, Node.js, Express.js, and MongoDB**.
+- 💡 Seeking help to improve my skills in **competitive programming** and **Data Structures & Algorithms (DSA)**.
+- 👾 Eager to learn new **MERN stack skills** and advance my understanding of **DSA**.
+- 💭 Feel free to ask me about **OOP, DBMS, Computer Networks, OS, DSA, Competitive Coding, and MERN Stack Web Development**.
+- ⚡ Fun Fact: I led my college volleyball team and was awarded the title of 'Most Fit Person' in 2023.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayush Upadhyay) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-upadhyay-a97588225)
+[![Email](https://img.shields.io/badge/Email-ayush.2101009cs@iiitbh.ac.in-d14836?style=for-the-badge&logo=gmail)](mailto:ayush.2101009cs@iiitbh.ac.in)
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayuhsupadhyay&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayuhsupadhyay&theme=radical&hide_border=false)<br/>
