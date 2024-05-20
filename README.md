@@ -3,9 +3,7 @@
 <hr>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-upadhyay-a97588225)
-[![Email](https://img.shields.io/badge/Email-ayush.2101009cs@iiitbh.ac.in-d14836?style=for-the-badge&logo=gmail)](mailto:ayush.2101009cs@iiitbh.ac.in)
+
 
 # 💫 About Me:
 Hi, I'm Ayush Upadhyay, a dedicated and enthusiastic 3rd Year CSE Undergraduate at IIIT Bhagalpur. With a strong foundation in computer science and a passion for coding, I thrive on solving complex problems and building innovative web applications. Here's a bit more about me:
@@ -16,6 +14,10 @@ Hi, I'm Ayush Upadhyay, a dedicated and enthusiastic 3rd Year CSE Undergraduate 
 - 👾 Eager to learn new **MERN stack skills** and advance my understanding of **DSA**.
 - 💭 Feel free to ask me about **OOP, DBMS, Computer Networks, OS, DSA, Competitive Coding, and MERN Stack Web Development**.
 - ⚡ Fun Fact: I led my college volleyball team and was awarded the title of 'Most Fit Person' in 2023.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-upadhyay-a97588225)
+[![Email](https://img.shields.io/badge/Email-ayush.2101009cs@iiitbh.ac.in-d14836?style=for-the-badge&logo=gmail)](mailto:ayush.2101009cs@iiitbh.ac.in)
 
 
 
