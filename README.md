@@ -18,4 +18,7 @@ Hi, I'm Ayush Upadhyay 👋
 ! Always eager to learn and contribute
 ```
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=ayuhsupadhyay&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayuhsupadhyay&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush's GitHub stats" />
+</div>
+```
