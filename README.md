@@ -2,12 +2,10 @@
 
 <hr>
 
-<div align="center">
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ayush-upadhyay-a97588225/"><img src="https://img.shields.io/badge/LinkedIn-ayush--upadhyay-0077b5?style=for-the-badge&logo=linkedin"></a>
-    <a href="mailto:ayush.2101009cs@iiitbh.ac.in"><img src="https://img.shields.io/badge/Email-ayush.2101009cs@iiitbh.ac.in-d14836?style=for-the-badge&logo=gmail"></a>
-  </p>
-</div>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-upadhyay-a97588225)
+[![Email](https://img.shields.io/badge/Email-ayush.2101009cs@iiitbh.ac.in-d14836?style=for-the-badge&logo=gmail)](mailto:ayush.2101009cs@iiitbh.ac.in)
 
 # 💫 About Me:
 Hi, I'm Ayush Upadhyay, a dedicated and enthusiastic 3rd Year CSE Undergraduate at IIIT Bhagalpur. With a strong foundation in computer science and a passion for coding, I thrive on solving complex problems and building innovative web applications. Here's a bit more about me:
